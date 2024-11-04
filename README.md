@@ -9,3 +9,7 @@ $ minikube addons enable dashboard
 $ minikube addons list
 $ minikube dashboard --url
 ```
+
+```bash
+
+```
